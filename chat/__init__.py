@@ -1,1 +1,1 @@
-from .response_generate import a
+from .response_generate import load_response
