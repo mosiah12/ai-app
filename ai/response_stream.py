@@ -1,8 +1,8 @@
 import os
 from gpt4all import GPT4All
 
-model_name = "Llama-3.2-3B-Instruct-Q4_K_M.gguf"
-model_initial_prompt = "Você é um assistente útil, educado e direto. Responda sempre em português."
+model_name = "MODEL NAME HERE"
+model_initial_prompt = "PROMPT HERE"
 max_response_size = 512
 
 current_folder = os.path.dirname(os.path.abspath(__file__))
